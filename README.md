@@ -1,2 +1,2 @@
 # practica_git
-primer ejercicio con git
+primer ejercicio con git en equipo.
