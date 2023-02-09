@@ -25,7 +25,7 @@ Rodajas de champiñones
 Carne molida
 Jamón
 Albahaca
-Pollo a la barbacoa
+Pollo git
 
  #2 Precalienta el horno a 204 °C (400 °F). 
  #3 Prepara la masa en un recipiente mezclar los ingredientes.
